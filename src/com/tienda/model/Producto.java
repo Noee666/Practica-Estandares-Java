@@ -87,7 +87,7 @@ public class Producto {
 	/**
 	 * @return una cadena de texto con los parámetros del producto.
 	 */
-	public String informacion() {
+	public String getInformacion() {
 
 		return """
 				Código:		%s%n
