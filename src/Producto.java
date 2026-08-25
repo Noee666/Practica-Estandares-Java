@@ -1,9 +1,9 @@
 public class Producto {
 
 	// Variables de clase
-	public String codigo;
-	public String nombre;
-	public double precio;
+	private String codigo;
+	private String nombre;
+	private double precio;
 
 	// Constructor principal
 	public Producto(String codigo, String nombre, double precio) {
